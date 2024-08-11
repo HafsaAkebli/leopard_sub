@@ -1,2 +1,14 @@
 SimpleITK
 numpy
+pandas
+scikit-learn
+timm
+torchvision
+torch
+PIL
+os
+histoencoder
+csv
+openslide
+tifffile
+albumentations
