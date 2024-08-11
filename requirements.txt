@@ -13,3 +13,4 @@ staintools==2.1.2
 histoencoder==0.1.1
 matplotlib==3.8.4
 opencv-python==4.10.0.84
+lifelines==0.29.0
